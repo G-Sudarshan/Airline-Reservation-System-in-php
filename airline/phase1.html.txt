@@ -1,0 +1,219 @@
+
+
+
+
+
+
+
+
+
+	
+ DBMS PROJECT (PHASE – I)
+
+
+
+
+
+
+
+
+
+
+AIRLINE RESERVATION SYSTEM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DOMAIN DESCRIPTION - AIRLINE RESERVATION SYSTEM
+
+
+Objective:-
+
+		The objective of this project is to implement the airline reservation system to the best satisfaction of the customer. The normal process which was followed until recently was to manually fill the data and then process the data which used to cause a lot of inconvenience to both the administrator and the customer as well.
+	 	 Now, we would like to use databases to facilitate this process
+of smooth reservation of airline tickets with minimal work on the part of both the customer and the administrators involved .
+Now let us look at the various aspects of airline reservation 
+
+The various aspects of the Airline Reservation System can be presented in views of the different people involved with it. The main people involved in the airline reservation are 
+Administrator
+Customer
+Broker
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Administrator’s view:-
+
+The administrator needs to know and control the following information at all times
+
+1)	Total Number of seats per flight and seats available (1st and 2nd classes if applicable) 
+
+2)	Number of reservations per flight (1st and 2nd classes if applicable)
+
+3)	Schedule of all flights in a day and flights which have arrived.
+
+4)	Schedule of a particular flight in a week.
+
+5)   List of passengers who are in the waiting list for a given flight
+
+Information of each traveler with flight number.
+
+		Information about the traveler includes details like 
+a) First Name
+b) Last Name 
+c) Gender
+d) Date of birth,
+e) Address, City, State, Zip Code 
+f) Phone number
+
+           	and other information like is he requesting for any concession or not
+
+      7) Other perks like giving rewards to fliers who have flied most frequently in that         month   and special offers for those flights which are normally half full or less 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Customer’s view:-
+
+
+
+
+
+A customer needs to know the following information:
+
+       1)	    Availability of flights to the destination from the departure.
+      
+       2)      Reservation status for a particular flight.
+
+       3)      Ticket price and the Concessions.
+      
+       4)       Different booking counters available and their addresses.
+       
+       5)       Status i.e., if the ticket has been confirmed or still in waiting list
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Broker’s view:-
+
+A broker needs to know the following information and have control over the following fields
+
+Total number of seats available for each flight
+
+2)	 Schedule of the flights
+
+3)	 Feed information about the user like 
+
+a) First Name
+b) Last Name 
+c) Gender
+d) Date of birth,
+e) Address, City, State, Zip Code 
+f) Phone number
+         
+4)	Allot reservations and cancellations 
+
+5)	Check if the user is still in the waiting list 
+
+
+We would like to implement all the preceding views through automation. 
+
+
+Expected Functionalities through automation:-
+
+Better customer satisfaction
+
+2)	Easy access to the information about airlines and flight timings
+
+3)	Easy maintenance of the databases by the administrator
+
+4)	Decrease the waiting time for each customer
+
+5)	Calculate the number of customers using the airlines
+
+6)	Maintenance of information regarding various customers
+
+
+
+					 
+	 
